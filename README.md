@@ -7,5 +7,5 @@ in this exampel name and rating is used :
  ```java
   final String title = row.select(".titleColumn a").text(); 
      final String rating = row.select(".imdbRating").text(); 
-     ```
+  ```
         
