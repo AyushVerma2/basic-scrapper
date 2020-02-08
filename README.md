@@ -11,10 +11,12 @@ in this exampel name and rating is used :
         
 eg:
 For Rating: 
+```xml
 <td class="ratingColumn imdbRating">
             <strong title="9.2 based on 2,187,658 user ratings">9.2</strong>
     </td>
     
  For Title Columd:
  <a href="/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&amp;pf_rd_p=e31d89dd-322d-4646-8962-327b42fe94b1&amp;pf_rd_r=D458C171A1KKK9YNEN9S&amp;pf_rd_s=center-1&amp;pf_rd_t=15506&amp;pf_rd_i=top&amp;ref_=chttp_tt_1" title="Frank Darabont (dir.), Tim Robbins, Morgan Freeman">The Shawshank Redemption</a>
+```
     
